@@ -13,3 +13,11 @@ resources/select2-dmoj.css
 resources/style.css
 resources/vars.scss
 sass_processed
+
+judge/bridge/daemon.py
+
+# npm socket
+node_modules
+package.json
+package-lock.json
+websocket/config.js
